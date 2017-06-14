@@ -1,0 +1,7 @@
+body {
+  background: blue;
+}
+input {
+  border: 1px solid deepskyblue;
+  box-shadow: 1px 1px 1px 1px deepskyblue;
+}
